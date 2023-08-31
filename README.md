@@ -1,6 +1,6 @@
 # Jetpack-Compose-UI-Components-Material-3
 
-<img src="https://raw.githubusercontent.com/b-lam/Resplash/master/design/Resplash_Play_Store_Banner.jpg" width="750">
+<img src="https://github.com/Dinesh2510/Jetpack-Compose-UI-Components-Material-3/blob/main/PDF%20Book%20(1).png?raw=true" width="750">
 
 
 # Screenshots
@@ -24,6 +24,6 @@
 | ------------- | ------------- |  ------------- |
 | [![IMAGE](https://img.youtube.com/vi/DBTxo2D6pT0/0.jpg)](https://www.youtube.com/watch?v=DBTxo2D6pT0)  | [![IMAGE](https://img.youtube.com/vi/F4XY9S2dfaA/0.jpg)](https://www.youtube.com/watch?v=F4XY9S2dfaA)  |[![IMAGE](https://img.youtube.com/vi/KRmOpXayfXY/0.jpg)](https://www.youtube.com/watch?v=KRmOpXayfXY)  |
 
-| ToolTips  | ToolTip | TopAppBar |
+| ToolTips  | ToolTip | CheckBox |
 | ------------- | ------------- |  ------------- |
 | [![IMAGE](https://img.youtube.com/vi/kmAxy1SOJbA/0.jpg)](https://www.youtube.com/watch?v=kmAxy1SOJbA)  | [![IMAGE](https://img.youtube.com/vi/0nnAx0g-6oc/0.jpg)](https://www.youtube.com/watch?v=0nnAx0g-6oc)  |[![IMAGE](https://img.youtube.com/vi/0nnAxg-6oc/0.jpg)](https://www.youtube.com/watch?v=me40fuUse8)  |
