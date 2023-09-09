@@ -26,8 +26,8 @@
 
 | ToolTips  | ToolTip | CheckBox |
 | ------------- | ------------- |  ------------- |
-| [![IMAGE](https://img.youtube.com/vi/kmAxy1SOJbA/0.jpg)](https://www.youtube.com/watch?v=kmAxy1SOJbA)  | [![IMAGE](https://img.youtube.com/vi/0nnAx0g-6oc/0.jpg)](https://www.youtube.com/watch?v=0nnAx0g-6oc)  |[![IMAGE](https://img.youtube.com/vi/zzTp6zmOkTU/0.jpg)](https://www.youtube.com/watch?v=HDewISB_1k0)|
+| [![IMAGE](https://img.youtube.com/vi/kmAxy1SOJbA/0.jpg)](https://www.youtube.com/watch?v=kmAxy1SOJbA)  | [![IMAGE](https://img.youtube.com/vi/0nnAx0g-6oc/0.jpg)](https://www.youtube.com/watch?v=0nnAx0g-6oc)  |[![IMAGE](https://img.youtube.com/vi/HDewISB_1k0/0.jpg)](https://www.youtube.com/watch?v=HDewISB_1k0)|
 
-| Custom Alert | ToolTip | CheckBox |
+| Chips | Custom Alert | -  |
 | ------------- | ------------- |  ------------- |
-| [![IMAGE](https://img.youtube.com/vi/zzTp6zmOkTU/0.jpg)](https://www.youtube.com/watch?v=zzTp6zmOkTU)  | [![IMAGE](https://img.youtube.com/vi/0nnAx0g/0.jpg)](https://www.youtube.com/watch?v=0nnAx0g)  |[![IMAGE](https://img.youtube.com/vi/0nnAxg/0.jpg)](https://www.youtube.com/watch?v=)|
+| [![IMAGE](https://img.youtube.com/vi/qDwxuVZ5e-A/0.jpg)](https://www.youtube.com/watch?v=qDwxuVZ5e-A)  | [![IMAGE](https://img.youtube.com/vi/zzTp6zmOkTU/0.jpg)](https://www.youtube.com/watch?v=zzTp6zmOkTU)  |[![IMAGE](https://img.youtube.com/vi/0nnAxg/0.jpg)](https://www.youtube.com/watch?v=)|
