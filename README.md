@@ -28,6 +28,10 @@
 | ------------- | ------------- |  ------------- |
 | [![IMAGE](https://img.youtube.com/vi/kmAxy1SOJbA/0.jpg)](https://www.youtube.com/watch?v=kmAxy1SOJbA)  | [![IMAGE](https://img.youtube.com/vi/0nnAx0g-6oc/0.jpg)](https://www.youtube.com/watch?v=0nnAx0g-6oc)  |[![IMAGE](https://img.youtube.com/vi/HDewISB_1k0/0.jpg)](https://www.youtube.com/watch?v=HDewISB_1k0)|
 
-| Chips | Custom Alert | -  |
+| Chips | Custom Alert | Spacers  |
 | ------------- | ------------- |  ------------- |
-| [![IMAGE](https://img.youtube.com/vi/qDwxuVZ5e-A/0.jpg)](https://www.youtube.com/watch?v=qDwxuVZ5e-A)  | [![IMAGE](https://img.youtube.com/vi/zzTp6zmOkTU/0.jpg)](https://www.youtube.com/watch?v=zzTp6zmOkTU)  |[![IMAGE](https://img.youtube.com/vi/0nnAxg/0.jpg)](https://www.youtube.com/watch?v=)|
+| [![IMAGE](https://img.youtube.com/vi/qDwxuVZ5e-A/0.jpg)](https://www.youtube.com/watch?v=qDwxuVZ5e-A)  | [![IMAGE](https://img.youtube.com/vi/zzTp6zmOkTU/0.jpg)](https://www.youtube.com/watch?v=zzTp6zmOkTU)  |[![IMAGE](https://img.youtube.com/vi/9VKHJLf0wgQ/0.jpg)](https://www.youtube.com/watch?v=9VKHJLf0wgQ)|
+
+| Divider | Dashed Divider | -  |
+| ------------- | ------------- |  ------------- |
+| [![IMAGE](https://img.youtube.com/vi/EZhDu8kYEJg/0.jpg)](https://www.youtube.com/watch?v=EZhDu8kYEJg)  | [![IMAGE](https://img.youtube.com/vi/z7ooiCMtPLc/0.jpg)](https://www.youtube.com/watch?v=z7ooiCMtPLc)  |[![IMAGE](https://img.youtube.com/vi/9VKHJLf0Q/0.jpg)](https://www.youtube.com/watch?v=9VKHJL0wgQ)|
