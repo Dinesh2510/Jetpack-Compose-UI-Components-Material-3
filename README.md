@@ -105,12 +105,8 @@ Please keep in mind that Jetpack Compose is actively developed, and new features
 | ------------- | ------------- |  ------------- |
 | [![IMAGE](https://img.youtube.com/vi/EZhDu8kYEJg/0.jpg)](https://www.youtube.com/watch?v=EZhDu8kYEJg)  | [![IMAGE](https://img.youtube.com/vi/z7ooiCMtPLc/0.jpg)](https://www.youtube.com/watch?v=z7ooiCMtPLc)  |[![IMAGE](https://img.youtube.com/vi/1ABTACV_dqA/0.jpg)](https://www.youtube.com/watch?v=1ABTACV_dqA)|
 
-<<<<<<< HEAD
-| IconsButton | State |   |
-| ------------- | ------------- |  ------------- |
-| [![IMAGE](https://img.youtube.com/vi/EZhDu8kYEg/0.jpg)](https://www.youtube.com/watch?v=EZhDu8kYJg)  | [![IMAGE](https://img.youtube.com/vi/z7ooiCMtPc/0.jpg)](https://www.youtube.com/watch?v=z7ooiCMtLc)  |[![IMAGE](https://img.youtube.com/vi/1ABTACV_dA/0.jpg)](https://www.youtube.com/watch?v=1ABTAV_dqA)|
-=======
-| IconButton | State Mangement | Listing  |
+| IconButton | State Mangement | Navigation Drawer |
 | ------------- | ------------- |  ------------- |
 | [![IMAGE](https://img.youtube.com/vi/mRyb9GDUE3g/0.jpg)](https://www.youtube.com/watch?v=mRyb9GDUE3g)  | [![IMAGE](https://img.youtube.com/vi/v56BmC-PVSQ/0.jpg)](https://www.youtube.com/watch?v=v56BmC-PVSQ)  |[![IMAGE](https://img.youtube.com/vi/1ABTACVdqA/0.jpg)](https://www.youtube.com/watch?v=1ABTAC_dqA)|
->>>>>>> 054c80f3e6bb4f811f39e0f39bbcb76596056fbd
+
+
