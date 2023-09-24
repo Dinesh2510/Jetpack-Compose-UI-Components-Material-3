@@ -2,8 +2,77 @@
 
 <img src="https://github.com/Dinesh2510/Jetpack-Compose-UI-Components-Material-3/blob/main/PDF%20Book%20(1).png?raw=true" width="750">
 
+Jetpack Compose is a modern Android UI toolkit that simplifies UI development on the Android platform. Here is a list of some commonly used Jetpack Compose UI components as of my last knowledge update in September 2021. Please note that Jetpack Compose evolves rapidly, and there may have been additions or changes since then.
 
-# Screenshots
+1. **Text**: `Text` composable is used to display text on the screen. It supports various text styling options.
+
+2. **TextField**: `TextField` allows users to input text. It's often used for forms and user input.
+
+3. **Button**: `Button` composable creates interactive buttons with customizable text and click behavior.
+
+4. **Image**: `Image` composable displays images in your app. It supports various image sources and content modes.
+
+5. **Column**: `Column` is a composable that arranges its children vertically, one after another.
+
+6. **Row**: `Row` is a composable that arranges its children horizontally, side by side.
+
+7. **Box**: `Box` is a versatile composable for creating complex layouts and applying transformations.
+
+8. **Spacer**: `Spacer` is a simple composable used for adding space between other composables.
+
+9. **Surface**: `Surface` is used for theming and applying background colors to composables.
+
+10. **Card**: `Card` is a material design component used for displaying content in a contained, elevated box.
+
+11. **AlertDialog**: `AlertDialog` displays a modal dialog with a title, message, and customizable buttons.
+
+12. **Snackbar**: `Snackbar` displays a brief message at the bottom of the screen.
+
+13. **BottomSheet**: `BottomSheet` creates a modal bottom sheet that slides up from the bottom of the screen.
+
+14. **Drawer**: `Drawer` is used to create a navigation drawer that slides in from the edge of the screen.
+
+15. **TopAppBar**: `TopAppBar` is a top app bar for navigation and actions.
+
+16. **FloatingActionButton**: `FloatingActionButton` creates a button for primary actions.
+
+17. **Navigation**: Jetpack Compose includes a navigation component for managing navigation between composables.
+
+18. **LazyColumn**: `LazyColumn` is a vertically scrolling list that loads items on-demand, suitable for long lists.
+
+19. **LazyRow**: `LazyRow` is a horizontally scrolling list that loads items on-demand.
+
+20. **TabRow**: `TabRow` is used for creating tabs in your app.
+
+21. **CheckBox**: `CheckBox` creates a checkbox for selecting options.
+
+22. **RadioButton**: `RadioButton` is used to select a single option from a group of options.
+
+23. **Switch**: `Switch` creates an on/off switch.
+
+24. **ProgressIndicator**: `ProgressIndicator` displays various types of progress indicators, such as circular or linear.
+
+25. **Slider**: `Slider` allows users to select a value from a range by sliding a thumb.
+
+26. **DatePicker**: `DatePicker` displays a date picker dialog.
+
+27. **TimePicker**: `TimePicker` displays a time picker dialog.
+
+28. **VideoView**: `VideoView` is used for displaying videos in your app.
+
+29. **WebView**: `WebView` integrates a web browser view into your app.
+
+30. **Canvas**: `Canvas` provides a drawing surface for creating custom graphics.
+
+31. **Gesture Detection**: Composables like `Modifier.clickable` and `Modifier.swipeable` enable gesture recognition.
+
+32. **Animation**: Jetpack Compose provides tools for creating animations, including `animate*` modifiers.
+
+33. **Accessibility**: Composables support accessibility features with `Modifier.semantics` and related APIs.
+
+Please keep in mind that Jetpack Compose is actively developed, and new features and components may have been added since my last knowledge update. It's essential to refer to the official Android documentation and release notes for the most up-to-date information on Jetpack Compose components and best practices.
+
+# Demo (click on Image for more details)
 | Text  | Row & Column | Box & Button |
 | ------------- | ------------- |  ------------- |
 | [![IMAGE](https://img.youtube.com/vi/xlNVM_8UGmk/0.jpg)](https://www.youtube.com/watch?v=xlNVM_8UGmk)  |  [![IMAGE](https://img.youtube.com/vi/urSIT2ik3NU/0.jpg)](https://www.youtube.com/watch?v=urSIT2ik3NU)  |   [![IMAGE](https://img.youtube.com/vi/s3zRbq_ggRI/0.jpg)](https://www.youtube.com/watch?v=s3zRbq_ggRI)|
@@ -36,6 +105,12 @@
 | ------------- | ------------- |  ------------- |
 | [![IMAGE](https://img.youtube.com/vi/EZhDu8kYEJg/0.jpg)](https://www.youtube.com/watch?v=EZhDu8kYEJg)  | [![IMAGE](https://img.youtube.com/vi/z7ooiCMtPLc/0.jpg)](https://www.youtube.com/watch?v=z7ooiCMtPLc)  |[![IMAGE](https://img.youtube.com/vi/1ABTACV_dqA/0.jpg)](https://www.youtube.com/watch?v=1ABTACV_dqA)|
 
+<<<<<<< HEAD
 | IconsButton | State |   |
 | ------------- | ------------- |  ------------- |
 | [![IMAGE](https://img.youtube.com/vi/EZhDu8kYEg/0.jpg)](https://www.youtube.com/watch?v=EZhDu8kYJg)  | [![IMAGE](https://img.youtube.com/vi/z7ooiCMtPc/0.jpg)](https://www.youtube.com/watch?v=z7ooiCMtLc)  |[![IMAGE](https://img.youtube.com/vi/1ABTACV_dA/0.jpg)](https://www.youtube.com/watch?v=1ABTAV_dqA)|
+=======
+| IconButton | State Mangement | Listing  |
+| ------------- | ------------- |  ------------- |
+| [![IMAGE](https://img.youtube.com/vi/mRyb9GDUE3g/0.jpg)](https://www.youtube.com/watch?v=mRyb9GDUE3g)  | [![IMAGE](https://img.youtube.com/vi/v56BmC-PVSQ/0.jpg)](https://www.youtube.com/watch?v=v56BmC-PVSQ)  |[![IMAGE](https://img.youtube.com/vi/1ABTACVdqA/0.jpg)](https://www.youtube.com/watch?v=1ABTAC_dqA)|
+>>>>>>> 054c80f3e6bb4f811f39e0f39bbcb76596056fbd
