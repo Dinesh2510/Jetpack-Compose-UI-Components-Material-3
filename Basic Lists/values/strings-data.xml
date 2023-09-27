@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="list_one_title">
+        <item>Place 1</item>
+        <item>Place 2</item>
+        <item>Place 3</item>
+        <item>Place 4</item>
+        <item>Place 5</item>
+
+        <item>Place 6</item>
+        <item>Place 7</item>
+        <item>Place 8</item>
+        <item>Place 9</item>
+        <item>Place 10</item>
+
+        <item>Place 11</item>
+        <item>Place 12</item>
+        <item>Place 13</item>
+        <item>Place 14</item>
+        <item>Place 15</item>
+
+        <item>Place 16</item>
+        <item>Place 17</item>
+        <item>Place 18</item>
+        <item>Place 19</item>
+        <item>Place 20</item>
+    </string-array>
+
+    <integer-array name="list_one_image">
+        <item>@drawable/image_1</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_3</item>
+        <item>@drawable/image_4</item>
+        <item>@drawable/image_5</item>
+
+        <item>@drawable/image_6</item>
+        <item>@drawable/image_7</item>
+        <item>@drawable/image_8</item>
+        <item>@drawable/image_9</item>
+        <item>@drawable/image_10</item>
+
+        <item>@drawable/image_11</item>
+        <item>@drawable/image_12</item>
+        <item>@drawable/image_13</item>
+        <item>@drawable/image_14</item>
+        <item>@drawable/image_15</item>
+
+        <item>@drawable/image_16</item>
+        <item>@drawable/image_17</item>
+        <item>@drawable/image_18</item>
+        <item>@drawable/image_19</item>
+        <item>@drawable/image_20</item>
+    </integer-array>
+
+
+</resources>
