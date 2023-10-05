@@ -109,9 +109,9 @@ Please keep in mind that Jetpack Compose is actively developed, and new features
 | ------------- | ------------- |  ------------- |
 | [![IMAGE](https://img.youtube.com/vi/mRyb9GDUE3g/0.jpg)](https://www.youtube.com/watch?v=mRyb9GDUE3g)  | [![IMAGE](https://img.youtube.com/vi/v56BmC-PVSQ/0.jpg)](https://www.youtube.com/watch?v=v56BmC-PVSQ)  |[![IMAGE](https://img.youtube.com/vi/-CIbqSab1yY/0.jpg)](https://www.youtube.com/watch?v=-CIbqSab1yY)|
 
-| Custom Lists | Grid Lists |  |
+| Custom Lists | Grid Lists | Bottom Sheets |
 | ------------- | ------------- |  ------------- |
-| [![IMAGE](https://img.youtube.com/vi/_BNtw6QLoLg/0.jpg)](https://www.youtube.com/watch?v=_BNtw6QLoLg)  | [![IMAGE](https://img.youtube.com/vi/z3BTJGL8kU8/0.jpg)](https://www.youtube.com/watch?v=z3BTJGL8kU8)  |[![IMAGE](https://img.youtube.com/vi/-CIbqab1yY/0.jpg)](https://www.youtube.com/watch?v=-CIbqb1yY)|
+| [![IMAGE](https://img.youtube.com/vi/_BNtw6QLoLg/0.jpg)](https://www.youtube.com/watch?v=_BNtw6QLoLg)  | [![IMAGE](https://img.youtube.com/vi/z3BTJGL8kU8/0.jpg)](https://www.youtube.com/watch?v=z3BTJGL8kU8)  |[![IMAGE](https://img.youtube.com/vi/ME4MRY0grhw/0.jpg)](https://www.youtube.com/watch?v=ME4MRY0grhw)|
 
 
 
