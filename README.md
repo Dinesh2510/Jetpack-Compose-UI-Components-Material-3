@@ -113,5 +113,7 @@ Please keep in mind that Jetpack Compose is actively developed, and new features
 | ------------- | ------------- |  ------------- |
 | [![IMAGE](https://img.youtube.com/vi/_BNtw6QLoLg/0.jpg)](https://www.youtube.com/watch?v=_BNtw6QLoLg)  | [![IMAGE](https://img.youtube.com/vi/z3BTJGL8kU8/0.jpg)](https://www.youtube.com/watch?v=z3BTJGL8kU8)  |[![IMAGE](https://img.youtube.com/vi/ME4MRY0grhw/0.jpg)](https://www.youtube.com/watch?v=ME4MRY0grhw)|
 
-
+| Bottom Navigation Bar | Bottom Navigation Bar With Badge | Animated BottomNavigationBar |
+| ------------- | ------------- |  ------------- |
+| [![IMAGE](https://img.youtube.com/vi/-4kWwTDOyTo/0.jpg)](https://www.youtube.com/watch?v=/-4kWwTDOyTo)  | [![IMAGE](https://img.youtube.com/vi/GXyXDYtD8Yw/0.jpg)](https://www.youtube.com/watch?v=GXyXDYtD8Yw)  |[![IMAGE](https://img.youtube.com/vi/1234/0.jpg)](https://www.youtube.com/watch?v=1234)|
 
