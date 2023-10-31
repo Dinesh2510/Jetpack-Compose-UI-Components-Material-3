@@ -115,5 +115,10 @@ Please keep in mind that Jetpack Compose is actively developed, and new features
 
 | Bottom Navigation Bar | Bottom Navigation Bar With Badge | Animated BottomNavigationBar |
 | ------------- | ------------- |  ------------- |
-| [![IMAGE](https://img.youtube.com/vi/-4kWwTDOyTo/0.jpg)](https://www.youtube.com/watch?v=/-4kWwTDOyTo)  | [![IMAGE](https://img.youtube.com/vi/GXyXDYtD8Yw/0.jpg)](https://www.youtube.com/watch?v=GXyXDYtD8Yw)  |[![IMAGE](https://img.youtube.com/vi/1234/0.jpg)](https://www.youtube.com/watch?v=1234)|
+| [![IMAGE](https://img.youtube.com/vi/-4kWwTDOyTo/0.jpg)](https://www.youtube.com/watch?v=/-4kWwTDOyTo)  | [![IMAGE](https://img.youtube.com/vi/GXyXDYtD8Yw/0.jpg)](https://www.youtube.com/watch?v=GXyXDYtD8Yw)  |[![IMAGE](https://img.youtube.com/vi/XqCCEZeYq-Y/0.jpg)](https://www.youtube.com/watch?v=XqCCEZeYq-Y)|
+
+| Tabs Layout using TabRow | Tabs Layout With Pages | Tabs Layout Viewpager |
+| ------------- | ------------- |  ------------- |
+| [![IMAGE](https://img.youtube.com/vi/9bPU8di_3bU/0.jpg)](https://www.youtube.com/watch?v=/9bPU8di_3bU)  | [![IMAGE](https://img.youtube.com/vi/1234/0.jpg)](https://www.youtube.com/watch?v=1234)  |[![IMAGE](https://img.youtube.com/vi/1234/0.jpg)](https://www.youtube.com/watch?v=1234)|
+
 
