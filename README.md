@@ -1,6 +1,6 @@
 # Jetpack-Compose-UI-Components-Material-3
 
-<img src="https://github.com/Dinesh2510/Jetpack-Compose-UI-Components-Material-3/blob/main/PDF%20Book%20(1).png?raw=true" width="750">
+<img src="https://github.com/Dinesh2510/Jetpack-Compose-UI-Components-Material-3/blob/main/PDF%20Book.png?raw=true" width="750">
 
 Jetpack Compose is a modern Android UI toolkit that simplifies UI development on the Android platform. Here is a list of some commonly used Jetpack Compose UI components as of my last knowledge update in September 2021. Please note that Jetpack Compose evolves rapidly, and there may have been additions or changes since then.
 
