@@ -1,0 +1,32 @@
+adb shell am start -a android.intent.action.VIEW -d "https://pixeldev.in/productData/12345" com.cloud.firepdf
+adb shell am start -a android.intent.action.VIEW -d "https://pixeldev.in/refrel/ABC123" com.cloud.firepdf
+
+🔗 Test Deep Links:
+https://pixeldev.in/refrel/ABC123
+https://pixeldev.in/productData/12345
+
+✅ Recommendation:
+To make your deep links open directly without chooser, especially on Android 12+,
+ you must host assetlinks.json
+
+📍 Ensure assetlinks.json is correctly hosted at:
+https://yourdomain.com/.well-known/assetlinks.json
+
+🛠️ Sample assetlinks.json:
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "your.package.name",
+    "sha256_cert_fingerprints": [
+      "XX:XX:XX:..."
+    ]
+  }
+}]
+
+🧰 Generate your assetlinks.json using:
+https://developers.google.com/digital-asset-links/tools/generator
+
+📚 Important Links:
+Android App Links Training - https://developer.android.com/training/app-links
+Add Android App Links - https://developer.android.com/studio/write/app-link-indexing
